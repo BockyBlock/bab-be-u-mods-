@@ -1,0 +1,91 @@
+[
+  {
+    "name": "platfory",
+    "sprite": ["modd/platfory"],
+    "layer": 3,
+    "color": [[6, 2]],
+    "rotate": true,
+    "desc": "i wonder if he watches bfdi",
+    "tags": ["platform, bfdi, object, dev, character, mod"]
+  },
+  {
+    "name": "wiki",
+    "sprite": ["modd/wiki"],
+    "layer": 12,
+    "color": [[6, 2]],
+    "rotate": true,
+    "desc": "it's like bup but worse",
+    "tags": ["character, mod, toad, mushroom"],
+    "pronouns": ["they", "them"]
+  },
+  {
+    "name": "him",
+    "sprite": ["modd/him"],
+    "color": [[6, 2]],
+    "desc": "gomba jumpscare",
+    "tags": ["character, mod, goomba, god, mushroom"],
+    "pronouns": ["he", "him"]
+  },
+  {
+    "name": "txt_platfory",
+    "sprite": ["modd/moddtxt/platfory"],
+    "types": ["object"],
+    "color": [[6, 2]],
+    "desc": "has very littlel relation to platform from baba",
+    "tags": ["platform, bfdi, object, dev, character, mod"]
+  },
+  {
+    "name": "txt_wiki",
+    "sprite": ["modd/moddtxt/wiki"],
+    "types": ["object"],
+    "color": [[6, 2]],
+    "desc": "pedia",
+    "tags": ["character, mod, toad, mushroom"]
+  },
+  {
+    "name": "txt_him",
+    "sprite": ["modd/moddtxt/him"],
+    "types": ["object"],
+    "color": [[6, 2]],
+    "desc": "praise our lord and savior Cursed Goomba",
+    "tags": ["character, mod, goomba, god, mushroom"]
+  },
+  {
+    "name": "monokeek",
+    "sprite": ["modd/monokeek"],
+    "color": [[2, 2]],
+    "desc": "created in a befren accident",
+    "tags": ["keke", "mod", "chars"],
+    "pronouns": ["he, mod, him"]
+  },
+  {
+    "name": "txt_monokeek",
+    "sprite": ["modd/moddtxt/monokeek"],
+    "types": ["object"],
+    "color": [[2, 2]],
+    "desc": "how",
+    "tags": ["keke, mod, chars"],
+  },
+  {
+    "name": "snacc",
+    "sprite": ["modd/snacc"],
+    "layer": 7,
+    "color": [[6, 2]],
+    "convertible": false,
+    "rotate": true,
+    "desc": "why do they call it a snacc when its the one that snaccs u",
+    "tags": ["chars", "scary", "thingify", "mod"],
+	"pronouns": ["it"]
+  },
+  {
+    "name": "ouch",
+    "sprite": ["modd/ouch"],
+    "layer": 7,
+    "color": [[6, 2]],
+    "convertible": false,
+    "rotate": true,
+    "desc": "creepypasta",
+    "tags": ["chars", "scary", "thingify", "mod"],
+	"pronouns": ["it"]
+  },
+]
