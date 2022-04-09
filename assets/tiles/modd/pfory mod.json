@@ -6,7 +6,7 @@
     "color": [[6, 2]],
     "rotate": true,
     "desc": "i wonder if he watches bfdi",
-    "tags": ["platform, bfdi, object, dev, character, mod"],  
+    "tags": ["platform", "bfdi", "object", "dev", "character", "mod"],  
     "pronouns": ["it"]
   },
   {
@@ -16,7 +16,7 @@
     "color": [[6, 2]],
     "rotate": true,
     "desc": "it's like bup but worse",
-    "tags": ["character, mod, toad, mushroom"],
+    "tags": ["character", "mod", "toad", "mushroom"],
     "pronouns": ["they", "them"]
   },
   {
@@ -33,7 +33,7 @@
     "types": ["object"],
     "color": [[6, 2]],
     "desc": "has very littlel relation to platform from baba",
-    "tags": ["platform, bfdi, object, dev, character, mod"]
+    "tags": ["platform", "bfdi", "object", "dev", "character", "mod"]
   },
   {
     "name": "txt_wiki",
@@ -41,7 +41,7 @@
     "types": ["object"],
     "color": [[6, 2]],
     "desc": "pedia",
-    "tags": ["character, mod, toad, mushroom"]
+    "tags": ["character", "mod", "toad", "mushroom"]
   },
   {
     "name": "txt_him",
@@ -49,7 +49,7 @@
     "types": ["object"],
     "color": [[6, 2]],
     "desc": "praise our lord and savior Cursed Goomba",
-    "tags": ["character, mod, goomba, god, mushroom"]
+    "tags": ["character", "mod", "goomba", "god", "mushroom"]
   },
   {
     "name": "monokeek",
@@ -57,7 +57,7 @@
     "color": [[2, 2]],
     "desc": "created in a befren accident",
     "tags": ["keke", "mod", "chars"],
-    "pronouns": ["he, mod, him"]
+    "pronouns": ["he", "him"]
   },
   {
     "name": "txt_monokeek",
@@ -65,7 +65,7 @@
     "types": ["object"],
     "color": [[2, 2]],
     "desc": "how",
-    "tags": ["keke, mod, chars"],
+    "tags": ["keke", "mod", "chars"],
   },
   {
     "name": "snacc",
