@@ -92,7 +92,7 @@
   {
     "name": "gunguy",
     "sprite": ["modd/gunguy"],
-    "color": [[2, 2]],
+    "color": [[1, 3]],
     "desc": "maybe he can find his PB over yonder",
     "tags": ["hempuli", "mod", "blue", "chars"],
     "pronouns": ["he", "him"]
@@ -101,8 +101,8 @@
     "name": "txt_gunguy",
     "sprite": ["modd/moddtxt/gunguy"],
     "types": ["object"],
-    "color": [[2, 2]],
-    "desc": "his roommate is a laser gun",
+    "color": [[1, 3]],
+    "desc": "oh? his roommate is a laser gun",
     "tags": ["hempuli", "mod", "blue", "chars"],
   }
 ]
