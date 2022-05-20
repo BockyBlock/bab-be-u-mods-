@@ -85,8 +85,24 @@
     "color": [[6, 2]],
     "convertible": false,
     "rotate": true,
-    "desc": "creepypasta",
+    "desc": "really stale creepypasta",
     "tags": ["chars", "scary", "thingify", "mod"],
 	"pronouns": ["it"]
   },
+  {
+    "name": "gunguy",
+    "sprite": ["modd/gunguy"],
+    "color": [[2, 2]],
+    "desc": "maybe he can find his PB over yonder",
+    "tags": ["hempuli", "mod", "blue", "chars"],
+    "pronouns": ["he", "him"]
+  },
+  {
+    "name": "txt_gunguy",
+    "sprite": ["modd/moddtxt/gunguy"],
+    "types": ["object"],
+    "color": [[2, 2]],
+    "desc": "his roommate is a laser gun",
+    "tags": ["hempuli", "mod", "blue", "chars"],
+  }
 ]
