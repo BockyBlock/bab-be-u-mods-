@@ -65,7 +65,7 @@
     "types": ["object"],
     "color": [[2, 2]],
     "desc": "how",
-    "tags": ["keke", "mod", "chars"],
+    "tags": ["keke", "mod", "chars"]
   },
   {
     "name": "snacc",
@@ -103,6 +103,6 @@
     "types": ["object"],
     "color": [[1, 3]],
     "desc": "oh? his roommate is a laser gun",
-    "tags": ["hempuli", "mod", "blue", "chars"],
+    "tags": ["hempuli", "mod", "blue", "chars"]
   }
 ]
