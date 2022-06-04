@@ -8,6 +8,8 @@ incleoods:
 - mono keek!!!!
 - snacc thingyify
 - ouch thingifie
-
+- man with gun
+- shoo
+- lookat thinify
 
 let meem know iff therer are bogs!
