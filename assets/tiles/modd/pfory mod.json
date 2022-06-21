@@ -131,5 +131,21 @@
     "color": [[0, 3]],
     "desc": "this is absolutely SOPPING",
     "tags": ["mod"],
+  },
+  {
+    "name": "whiz",
+    "sprite": ["modd/whiz"],
+    "color": [[5, 3]],
+    "desc": "can allegedly talk to robobots",
+    "tags": ["mod"],
+    "pronouns": ["they", "them"]
+  },
+  {
+    "name": "txt_whiz",
+    "sprite": ["modd/moddtxt/whiz"],
+    "types": ["object"],
+    "color": [[5, 3]],
+    "desc": "gee whiz",
+    "tags": ["mod"],
   }
 ]
