@@ -13,3 +13,4 @@ incleoods:
 - lookat thinify
 
 let meem know iff therer are bogs!
+btw I moved it to https://github.com/BockyBlock/platfory-modds-fork
